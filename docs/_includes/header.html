@@ -6,7 +6,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>{{ site.name }}{% if page.title %} | {{ page.title }} {% endif %}</title>
+    <title>{{ site.title }}{% if page.title %} | {{ page.title }} {% endif %}</title>
     <meta name="theme-color" content="#222222"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
@@ -43,7 +43,7 @@
 
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
     <div class="container">
-        <a class="navbar-brand" href="{{ '' | relative_url }}/">{{ site.name }}</a>
+        <a class="navbar-brand" href="{{ '' | relative_url }}/">{{ site.title }}</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse"
                 data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup"
                 aria-expanded="false" aria-label="Toggle navigation">

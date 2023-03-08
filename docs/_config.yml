@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: दुनिया भर का ज्ञान
+title: दुनिया भर का ज्ञान
 description: Aravind Pai's blog about worldly knowledge and experiences
 
 # Url is currently only used only for the RSS feed in feed.xml

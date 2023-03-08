@@ -25,12 +25,6 @@
                     {{ content }}
                     {% include share.html %}
                   </div>
-                  {% if page.comments %}
-                  <div id="disqus_thread">
-                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                  </div>
-                  {% endif %}
                 </div>
               </div>
             </div>
@@ -39,24 +33,7 @@
             </div>
           </div>
         </div>
-        {% include disqus-comments.html %}
-                            <script src="https://giscus.app/client.js"
-                      data-repo="dragondive/dragondive.github.io"
-                      data-repo-id="R_kgDOJGTX1w"
-                      data-category="Comments"
-                      data-category-id="DIC_kwDOJGTX184CUucD"
-                      data-mapping="url"
-                      data-strict="0"
-                      data-reactions-enabled="1"
-                      data-emit-metadata="0"
-                      data-input-position="top"
-                      data-theme="preferred_color_scheme"
-                      data-lang="en"
-                      data-loading="lazy"
-                      crossorigin="anonymous"
-                      async>
-                    </script>
-
+        {% include giscus-comments.html %}
       </div>
       {% include footer.html %}
     </div>

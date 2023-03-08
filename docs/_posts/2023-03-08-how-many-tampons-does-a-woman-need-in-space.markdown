@@ -2,6 +2,7 @@
 layout: post
 title:  "How many tampons does a woman astronaut need in space?"
 comments: true
+share: true
 ---
 
 ![Sally Ride](/assets/images/sally-ride.jpeg){: style="float: left; margin-right: 1em; width: 200px;"}

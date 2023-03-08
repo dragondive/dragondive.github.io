@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -11,7 +11,7 @@ layout: base
         {{ page.date | date: date_format }}
       </time>
       {%- if page.modified_date -%}
-        ~ 
+        ~
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
@@ -25,6 +25,10 @@ layout: base
         {% endfor %}
       {%- endif -%}</p>
   </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

@@ -25,6 +25,11 @@
                     {{ content }}
                     {% include share.html %}
                   </div>
+                  {% if page.comments %}
+                  <div id="giscus_thread">
+                    {% include giscus-comments.html %}
+                  </div>
+                  {% endif %}
                 </div>
               </div>
             </div>
@@ -33,7 +38,6 @@
             </div>
           </div>
         </div>
-        {% include giscus-comments.html %}
       </div>
       {% include footer.html %}
     </div>

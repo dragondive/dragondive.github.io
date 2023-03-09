@@ -6,6 +6,8 @@ share: true
 tags:
   - finance
   - investing
+  - stock market
+  - SIP
   - meme
 ---
 

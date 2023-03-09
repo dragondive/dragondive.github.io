@@ -6,6 +6,8 @@ share: true
 tags:
   - finance
   - investing
+  - stock market
+  - SIP
   - meme
 ---
 
@@ -23,7 +25,7 @@ Make this the starting point of all your investment decisions. This will nearly 
 
 Many of these finance advisors and experts (who are now known by another rubbish term "influencers") are only in the business for _their own_ financial interests, and not for those of their followers.
 
-Over time, you begin to notice that their so-called advice is often meaningless gibberish decorated with profound-sounding sham. They even contradict their own gyan which exposes how they don't even know what they're talking about. 
+Over time, you begin to notice that their so-called advice is often meaningless gibberish decorated with profound-sounding sham. They even contradict their own gyan which exposes how they don't even know what they're talking about.
 
 For example:
 

@@ -6,6 +6,8 @@ share: true
 tags:
   - DEI
   - story
+  - othering
+  - pretence
 ---
 
 <figure style="float:left; margin-right: 1em; width: 200px;">

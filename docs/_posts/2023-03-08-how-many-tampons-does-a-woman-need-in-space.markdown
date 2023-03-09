@@ -8,7 +8,10 @@ tags:
   - story
 ---
 
-![Sally Ride](/assets/images/sally-ride.jpeg){: style="float: left; margin-right: 1em; width: 200px;"}
+<figure style="float:left; margin-right: 1em; width: 200px;">
+  <img src="{{site.url}}/assets/images/sally-ride.jpeg" alt="Sally Ride" />
+  <figcaption style="text-align: center;">Sally Ride<br>Image source: <a href="https://en.wikipedia.org/wiki/Sally_Ride">Wikipedia</a></figcaption>
+</figure>
 
 The woman in this picture is Sally Ride. She is recognized as a space pioneer, being the first American astronaut who went to space. The life of a "first" person is rarely without challenges, especially until they are also an "only". Sally was no exception.
 
@@ -92,14 +95,14 @@ Diversity and inclusion is not about:
 > **Diversity and inclusion is taking concrete meaningful actions, not talking or preparing Powerpoint slides about it.**
 {: style="text-align: center;"}
 
-![How much I'm influenced by what you say and what you do](/assets/images/how-much-influenced.jpeg)
-{: style="width: 400px; display:block; margin-left: auto; margin-right: auto;"}
-
-Image credit: [Joe Gannon on LinkedIn](https://www.linkedin.com/posts/joe-gannon_this-is-relevant-to-everybody-leadership-activity-7024284040006397952-ZXBu)
-{: style="text-align: center;"}
+<figure style="width: 50%; display:block; margin-left: auto; margin-right: auto;">
+  <img src="{{site.url}}/assets/images/how-much-influenced.jpeg" alt="How much I'm influenced by what you say and what you do" />
+  <figcaption  style="text-align: center;">Image credit: <a href="https://www.linkedin.com/posts/joe-gannon_this-is-relevant-to-everybody-leadership-activity-7024284040006397952-ZXBu">Joe Gannon on LinkedIn</a></figcaption>
+</figure>
 
 > **Treating people with respect is the bare minimum expectation, it is not philanthrophy.** 
 {: style="text-align: center;"}
+
 
 ---
 

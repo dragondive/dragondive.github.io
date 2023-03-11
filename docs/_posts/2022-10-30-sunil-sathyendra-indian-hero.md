@@ -21,6 +21,11 @@ While everyone is obsessed with finding Indian origins in foreign heroes, I writ
 
 [Sunil Sathyendra](https://linkedin.com/in/sunil-sathyendra), also known as Pungidasa or Pungi is many heroes rolled into one person.
 
+<figure style="width: 80%; display:block; margin-left: auto; margin-right: auto;">
+  <img src="/assets/images/sunil-sathyendra.jpg" alt="Sunil Sathyendra" />
+  <figcaption  style="text-align: center;">Sunil Sathyendra</figcaption>
+</figure>
+
 He's a poet and a story writer. With one big difference. He uses his talents for fundraising. His subscription money has funded education for many children in rural Karnataka. He also personally visits schools voluntarily to teach the children.
 
 He is passionate about zero waste and sustainability movement. He has propagated the message of individual sustainability to 2000+ people worldwide through his sessions that explain how small changes in daily routines can make a positive impact.
@@ -45,7 +50,7 @@ Who are the original Indian heroes you know? Let me know in the comments below.
 
 ---
 
-_This post barely scratches the surface. I could easily write a book about him. But I will stop here at sharing a small sample of his inspiring LinkedIn posts and leave the bookwriting to Sunil._ :smile:
+_This post barely scratches the surface. I could easily write a book about him. But I will stop here at sharing a small sample of his inspiring LinkedIn posts and leave the bookwriting to Sunil._ 
 
 <div align="center">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6910278133875191808" height="1200" width="80%" frameborder="0" allowfullscreen="" title="Writing"></iframe>

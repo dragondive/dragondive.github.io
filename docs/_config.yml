@@ -28,7 +28,7 @@ linkedin_username: apai
 github_username:  dragondive
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 

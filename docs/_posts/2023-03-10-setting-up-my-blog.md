@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up my new blog"
+title:  "Setting up my new blog on Github Pages with Jekyll"
 comments: true
 share: true
 tags:
@@ -70,9 +70,9 @@ The Jekyll inline attributes can be used, for example, to apply css styles to th
 
 ## Doing a local build
 
-_[For the first several times, I tested my changes by force pushing to Github. This is a needlessly complex and inefficient approach, besides the build with Github Actions alone took over a minute. I decided to "eventually" figure out how to first build locally after I got my blog in a reasonable working state. 
+_[For the first several times, I tested my changes by force pushing to Github. This is a needlessly complex and inefficient approach, besides the build with Github Actions alone took over a minute. I decided to "eventually" figure out how to first build locally after I got my blog in a reasonable working state._
 
-This turned out to be a great decision because when I did eventually get to it, I had to struggle for several hours with [dependency hell](https://www.techtarget.com/searchitoperations/definition/dependency-hell). Nonetheless, I write about it here since this order is more appropriate for my future reference.]_
+_This turned out to be a great decision because when I did eventually get to it, I had to struggle for several hours with [dependency hell](https://www.techtarget.com/searchitoperations/definition/dependency-hell). Nonetheless, I write about it here since this order is more appropriate for my future reference.]_
 
 The command to build locally itself is quite simple:
 
@@ -149,6 +149,6 @@ _[I was familiar with [Disqus](https://disqus.com/) and [Discourse](https://www.
 
 I wondered if there's a Github-based solution for commenting system as well. As expected, some genius minds had thought of that already. There is [utterances](https://utteranc.es/) and [giscus](https://giscus.app/). I chose giscus because it felt more logical that comments go to Github discussions than to Github issues. The giscus webpage provides a very easy interface to generate the integration code.
 
-I read through the theme's code to understand better how it worked and to figure out where to enter the code for giscus integration. As a first trial, I included it in `_layouts/post.html` and it worked. Then I [reoganized and cleaned up the setup](https://github.com/dragondive/dragondive.github.io/commit/99829e36b268903055443e0c6045bd551ed2ae73) to [place it directly below the blog post](https://github.com/dragondive/dragondive.github.io/commit/a7d864c2c69e9a4073476c33b9dd23923cf2e888). For now, I enable commenting in the [front matter](https://jekyllrb.com/docs/front-matter/) of [every post](https://github.com/dragondive/dragondive.github.io/commit/e012f5379f85d17b7360b88f558acfffce8eb404), but there's likely an option to configure this globally.
+I read through the theme's code to understand better how it worked and to figure out where to enter the code for giscus integration. As a first trial, I included it in `_layouts/post.html` and it worked. Then I [reorganized and cleaned up the setup](https://github.com/dragondive/dragondive.github.io/commit/99829e36b268903055443e0c6045bd551ed2ae73) to [place it directly below the blog post](https://github.com/dragondive/dragondive.github.io/commit/a7d864c2c69e9a4073476c33b9dd23923cf2e888). For now, I enable commenting in the [front matter](https://jekyllrb.com/docs/front-matter/) of [every post](https://github.com/dragondive/dragondive.github.io/commit/e012f5379f85d17b7360b88f558acfffce8eb404), but there's likely an option to configure this globally.
 
 With this, I have a reasonably good blog setup in place, which I will improve over time.

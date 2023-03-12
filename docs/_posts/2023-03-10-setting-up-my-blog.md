@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Setting up my new blog"
+title:  "Setting up my new blog on Github Pages with Jekyll"
 comments: true
 share: true
 tags:
@@ -70,9 +70,9 @@ The Jekyll inline attributes can be used, for example, to apply css styles to th
 
 ## Doing a local build
 
-_[For the first several times, I tested my changes by force pushing to Github. This is a needlessly complex and inefficient approach, besides the build with Github Actions alone took over a minute. I decided to "eventually" figure out how to first build locally after I got my blog in a reasonable working state. 
+_[For the first several times, I tested my changes by force pushing to Github. This is a needlessly complex and inefficient approach, besides the build with Github Actions alone took over a minute. I decided to "eventually" figure out how to first build locally after I got my blog in a reasonable working state._
 
-This turned out to be a great decision because when I did eventually get to it, I had to struggle for several hours with [dependency hell](https://www.techtarget.com/searchitoperations/definition/dependency-hell). Nonetheless, I write about it here since this order is more appropriate for my future reference.]_
+_This turned out to be a great decision because when I did eventually get to it, I had to struggle for several hours with [dependency hell](https://www.techtarget.com/searchitoperations/definition/dependency-hell). Nonetheless, I write about it here since this order is more appropriate for my future reference.]_
 
 The command to build locally itself is quite simple:
 

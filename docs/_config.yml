@@ -53,3 +53,4 @@ exclude: ['README.md', 'LICENSE']
 
 plugins:
   - jemoji
+  - jekyll-plantuml

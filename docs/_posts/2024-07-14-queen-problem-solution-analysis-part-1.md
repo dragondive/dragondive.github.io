@@ -35,13 +35,13 @@ tags:
 
 This post describes my fun project to solve the [Queen problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle) in multiple languages and compare their execution runtimes.
 
-[Let me first show you](https://tvtropes.org/pmwiki/pmwiki.php/Main/InMediasRes) the live results plot ...
+[Let me first show you](https://tvtropes.org/pmwiki/pmwiki.php/Main/InMediasRes) the results plot ...
 
 <figure style="width: 80%; display:block; margin-left: auto; margin-right: auto;">
   <img 
-    src="https://github.com/dragondive/queen/blob/artifacts/artifacts/queen_log_scale_plot.svg?raw=true" 
+    src="https://github.com/dragondive/queen/blob/artifacts/artifacts/queen_log_scale_plot.png?raw=true"
     alt="Live results plot (log scale)" />
-  <figcaption  style="text-align: center;">Live results plot (log scale)</figcaption>
+  <figcaption  style="text-align: center;">Results plot (log scale)</figcaption>
 </figure>
 
 ... and then take you through the journey.

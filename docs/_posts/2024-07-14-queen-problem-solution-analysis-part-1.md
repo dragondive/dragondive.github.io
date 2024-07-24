@@ -13,7 +13,6 @@ tags:
   - ci cd
   - cross-language comparison
   - demo
-  - education
   - experiment
   - github
   - github actions
@@ -21,7 +20,7 @@ tags:
   - open source
   - performance
   - plotting
-  - programming languages
+  - programming
   - python
   - queen
   - rust
@@ -231,6 +230,8 @@ Comparing languages solely by execution time without considering the full contex
 I will optimize and partially rework my prototype. Specifically, I'll replace the recursion with iteration and use a more efficient approach for reporting results instead of the repeated I/O access. I will share my findings in the Part 3 of this blog post.
 
 Hang on! What about Part 2? I'll be solving the Queen problem using a *fourth* language&mdash;one that is different, more interesting and more fun than these three. Can you guess which language that will be? Let me know in the comments!
+
+[**Update**: The fourth language is PlantUML! Read more in Part 2: [PlantUML to compute diagrams!]({% post_url 2024-07-19-plantuml-compute-diagrams %})]
 
 ---
 
